@@ -4,8 +4,23 @@
     border-radius: 10%;
 }
 .hispotomo{
-    text-shadow: 2px 2px 4px black;  
+    text-shadow: 4px 4px 8px black;  
 }
 body{
     background-image: url(../img/Backgorund/imagem\ de\ fundo.jfif)
+}
+.img-pequena{
+    height: 100%;
+    width: 100%;
+}
+@media only screen and (max-width: 800px) {
+    .frederico{
+        width: 100%;
+        width: 20rem;
+    }
+}
+.a{
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: x-large;
 }
