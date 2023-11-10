@@ -32,6 +32,7 @@ footer{
     right: 0;
     width: 100%;
     border: 3px solid #73AD21;
+    z-index: 999;
 }
 .aaa{
     padding-bottom: 5%;
