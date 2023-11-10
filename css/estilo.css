@@ -24,3 +24,15 @@ body{
     text-align: center;
     font-size: x-large;
 }
+footer{
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.268);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    border: 3px solid #73AD21;
+}
+.aaa{
+    padding-bottom: 5%;
+}
